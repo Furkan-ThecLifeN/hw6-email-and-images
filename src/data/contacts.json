@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "64d1f5f987a1b3c4567e1234",
+    "name": "Ahmet Yılmaz",
+    "phoneNumber": "+905551234567",
+    "email": "ahmet.yilmaz@example.com",
+    "isFavourite": true,
+    "contactType": "work",
+    "createdAt": "2025-08-08T10:00:00.000Z",
+    "updatedAt": "2025-08-08T10:00:00.000Z"
+  },
+  {
+    "_id": "64d1f60087a1b3c4567e1235",
+    "name": "Elif Demir",
+    "phoneNumber": "+905538765432",
+    "email": "elif.demir@example.com",
+    "isFavourite": false,
+    "contactType": "home",
+    "createdAt": "2025-08-07T09:30:00.000Z",
+    "updatedAt": "2025-08-07T09:30:00.000Z"
+  },
+  {
+    "_id": "64d1f60587a1b3c4567e1236",
+    "name": "Mert Kaya",
+    "phoneNumber": "+905532112233",
+    "email": "mert.kaya@example.com",
+    "isFavourite": false,
+    "contactType": "personal",
+    "createdAt": "2025-08-06T15:45:00.000Z",
+    "updatedAt": "2025-08-06T15:45:00.000Z"
+  }
+]
